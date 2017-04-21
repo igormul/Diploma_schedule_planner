@@ -1,0 +1,19 @@
+﻿<Window x:Class="Diplom.Insert_Rooms_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Diplom"
+        mc:Ignorable="d"
+        Title="Insert_Rooms_Window" Height="162.085" Width="324.171">
+    <Grid>
+        <TextBox Name="N_TB" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="Кімната" VerticalAlignment="Top" Width="120" GotFocus="N_TB_GotFocus"/>
+        <TextBox Name="T_TB" HorizontalAlignment="Left" Height="23" Margin="10,38,0,0" TextWrapping="Wrap" Text="Тип" VerticalAlignment="Top" Width="120" GotFocus="T_TB_GotFocus"/>
+        <TextBox Name="C_TB" HorizontalAlignment="Left" Height="23" Margin="10,66,0,0" TextWrapping="Wrap" Text="Кількість місць" VerticalAlignment="Top" Width="120" GotFocus="C_TB_GotFocus"/>
+        <Button Name="OK_B" Content="Добавити" HorizontalAlignment="Left" Margin="10,94,0,0" VerticalAlignment="Top" Width="75" Click="OK_B_Click"/>
+        <Label Content="1 -Лекція" HorizontalAlignment="Left" Margin="135,10,0,0" VerticalAlignment="Top" Height="31" Width="70"/>
+        <Label Content="2 -Практика" HorizontalAlignment="Left" Margin="135,41,0,0" VerticalAlignment="Top" Height="31" Width="92"/>
+        <Label Content="3 -Лабораторія" HorizontalAlignment="Left" Margin="135,77,0,0" VerticalAlignment="Top" Height="30" Width="100"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,54 @@
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\bin\Debug\DB1.mdf
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\bin\Debug\DB1_log.ldf
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\MainWindow.g.cs
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\App.g.cs
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Diplom_Content.g.cs
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.cache
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.lref
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\MainWindow.baml
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.g.resources
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Insert_Teacher_Window.g.cs
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Insert_Teacher_Window.baml
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Insert_Groups_Window.g.cs
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Insert_Rooms_Window.g.cs
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Insert_Subject_Window.g.cs
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Insert_Groups_Window.baml
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Insert_Rooms_Window.baml
+C:\Users\igorm_000\Documents\Visual Studio 2015\Projects\Diplom\Diplom\obj\Debug\Insert_Subject_Window.baml
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Insert_Groups_Window.g.cs
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Insert_Rooms_Window.g.cs
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Insert_Subject_Window.g.cs
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Insert_Teacher_Window.g.cs
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\MainWindow.g.cs
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Requirements_Window.g.cs
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\App.g.cs
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Diplom_Content.g.cs
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.cache
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.lref
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\bin\Debug\DB1.mdf
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\bin\Debug\DB1_log.ldf
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Insert_Groups_Window.baml
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Insert_Rooms_Window.baml
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Insert_Subject_Window.baml
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Insert_Teacher_Window.baml
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\MainWindow.baml
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Requirements_Window.baml
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Diplom.g.resources
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Help_window.g.cs
+C:\Personal data\Igor\Univer\Kurs 4\Semestr 2\Prakt\Diplom\Диплом\Diplom\Diplom\Diplom\obj\Debug\Help_window.baml

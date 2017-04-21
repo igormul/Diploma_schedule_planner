@@ -1,0 +1,19 @@
+﻿<Window x:Class="Diplom.Insert_Teacher_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Diplom"
+        mc:Ignorable="d"
+        Title="Insert_Teacher_Window" Height="218.246" Width="200.474">
+    <Grid>
+        <TextBox Name="PIB_TB" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="ПІБ" VerticalAlignment="Top" Width="120" GotFocus="PIB_TB_GotFocus"/>
+        <TextBox Name="Degree_TB"  HorizontalAlignment="Left" Height="23" Margin="10,38,0,0" TextWrapping="Wrap" Text="Число" VerticalAlignment="Top" Width="120" GotFocus="Degree_TB_GotFocus"/>
+        <TextBox Name="Subj_TB" HorizontalAlignment="Left" Height="23" Margin="10,66,0,0" TextWrapping="Wrap" Text="Предмет" VerticalAlignment="Top" Width="120" GotFocus="Subj_TB_GotFocus"/>
+        <CheckBox Name="Lec_CHK" Content="Лекції?" HorizontalAlignment="Left" Margin="10,94,0,0" VerticalAlignment="Top" />
+        <CheckBox Name="Pra_CHK" Content="Практики?" HorizontalAlignment="Left" Margin="10,113,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="Lab_CHK" Content="Лабораторні?" HorizontalAlignment="Left" Margin="10,133,0,0" VerticalAlignment="Top"/>
+        <Button Name="OK_B" Content="Добавити" HorizontalAlignment="Left" Margin="13,153,0,0" VerticalAlignment="Top" Width="75" Click="OK_B_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Diplom.Dictionary" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <AssociationLine Name="Room" Type="Diplom.Room" ManuallyRouted="true">
+      <Path>
+        <Point X="6.438" Y="2.25" />
+        <Point X="6.438" Y="0.812" />
+        <Point X="4" Y="0.812" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Subj" Type="Diplom.Subj" ManuallyRouted="true">
+      <Path>
+        <Point X="5.5" Y="2.562" />
+        <Point X="5.125" Y="2.562" />
+        <Point X="5.125" Y="2.812" />
+        <Point X="4.25" Y="2.812" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Teacher" Type="Diplom.Teacher" ManuallyRouted="true">
+      <Path>
+        <Point X="5.5" Y="2.375" />
+        <Point X="2.094" Y="2.375" />
+        <Point X="2.094" Y="2.781" />
+        <Point X="2" Y="2.781" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAEQAQIAAABAAAAAAFAIAAQAAAAAgCACAACAgAAEBBA=</HashCode>
+      <FileName>Dictionary.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Room" />
+      <Property Name="Grp" />
+      <Property Name="Teacher" />
+      <Property Name="Subj" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Diplom.Grp" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAgAAABAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Room" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Subj" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAQAAAAAAAAAAAAAAQAAAAAAEAA=</HashCode>
+      <FileName>Subj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Teacher" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAEIAAAAAAAAABAEAA=</HashCode>
+      <FileName>Subj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Diplom.Node" Collapsed="true">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAAAAAAAAAAAAAACAAAAAAAAAAABAAAABAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Teacher" />
+      <Property Name="Subj" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Diplom.Rozklad" Collapsed="true">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAABAgAAAAgAAAAAAAAQAAAAAAAAAABAAAAAAAEAAAg=</HashCode>
+      <FileName>Rozklad.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Node" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Diplom.RF" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAQAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>RF.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Rozklad" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Diplom.Generation" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEAABQMAAEBAAAAGAAAAAAAAAAQAQAACAAAAA=</HashCode>
+      <FileName>Generation.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="RF" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Diplom.MainWindow" Collapsed="true">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAgACBgAAAAAACAIAZAAAAAAAAAAEBBA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Dictionary" />
+      <Property Name="DataBase" />
+      <Property Name="Generation" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Diplom.DataBase" Collapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAEAAAICghAAgAAAAACIEAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

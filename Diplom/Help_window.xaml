@@ -1,0 +1,32 @@
+﻿<Window x:Class="Diplom.Help_window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Diplom"
+        mc:Ignorable="d"
+        Title="Довідка" Height="259.516" Width="397.578">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,41,0,0" TextWrapping="Wrap" 
+                   Text="•	Для вибору даних для перегляду, виберіть необхідну таблицю з випадаючого списку над таблицею.
+                        
+                   •	Для добавлення нових даних натисніть на відповідну кнопку зліва.
+                        
+                   
+                   
+                   
+                   •	Для переходу до вибору вимог на генерації натисніть кнопку Генерувати
+                        
+                   
+                   
+                   
+                   •	Для вибору вимог виберіть у вікні Вимоги потрібну Вам логіку з випадаючих списків.
+                        
+                   
+                   
+                   •	Для генерації натисніть OK" 
+                   VerticalAlignment="Top" Height="165" Width="354"/>
+        <Label Content="Довідка" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
